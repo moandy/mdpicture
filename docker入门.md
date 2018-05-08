@@ -74,7 +74,7 @@ $ sudo apt-get install docker.io
 
 `$ sudo docker images`
 
-![](H:\MyGitHub\mdpicture\1.png)
+![](https://github.com/moandy/mdpicture/blob/master/1.png)
 
 ##### 文件目录
 
@@ -101,7 +101,7 @@ expose 5000						#用于设置与主机相连的端口号
 
 `$ sudo docker images`
 
-![](H:\MyGitHub\mdpicture\2.png)
+![](https://github.com/moandy/mdpicture/blob/master/2.png)
 
 ##### 运行容器
 
@@ -111,7 +111,7 @@ expose 5000						#用于设置与主机相连的端口号
 
 `$ ./helloworld`
 
-![](H:\MyGitHub\mdpicture\3.png)
+![](https://github.com/moandy/mdpicture/blob/master/3.png)
 
 
 
@@ -121,4 +121,4 @@ expose 5000						#用于设置与主机相连的端口号
 
 还可以自己去[docker官网](https://hub.docker.com/)注册一个账号，把自己的容器上传上去到自己的主页(类似github的仓库)。
 
-![](H:\MyGitHub\mdpicture\4.png)
+![](https://github.com/moandy/mdpicture/blob/master/4.png)
